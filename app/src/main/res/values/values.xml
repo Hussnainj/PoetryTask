@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sp" >
+        <item>Lyric1</item>
+        <item>Narrat1ive</item>
+        <item>Descrip1tive</item>
+        <item>Stanza1</item>
+    </string-array>
+
+
+</resources>

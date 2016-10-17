@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PoetryTask</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinnerdata">
+        <item>stanza</item>
+        <item>lyric</item>
+        <item>description</item>
+        <item>historical</item>
+    </string-array>
+
+</resources>
